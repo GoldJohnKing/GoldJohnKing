@@ -1,0 +1,6 @@
+- 👋 Hi, I’m [Gold John King](https://github.com/GoldJohnKing)
+- 👀 A programmer in Chinese Mainland
+- 🌱 Hosting Arma 3 and DCS World Game Server
+- 💞️ Also developing some tools for them
+- 📫 Once worked for Cloud Gaming company and knows Win32 API well
+- 📺 You can reach me on [Bilibili](https://space.bilibili.com/67279156)
