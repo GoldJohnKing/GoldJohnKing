@@ -1,6 +1,8 @@
 - 👋 Hi, I’m [Gold John King](https://github.com/GoldJohnKing)
-- 👀 A programmer in Chinese Mainland
+- 👀 A programmer in China Mainland
 - 🌱 Hosting Arma 3 and DCS World Game Server
-- 💞️ Also developing some tools for them
+- 💞️ Also developing some missions and tools for them
+  - [mimalloc Memory Allocator for Arma 3](https://github.com/GoldJohnKing/mimalloc)
+  - [Foothold Mission modified for DCS World](https://github.com/GoldJohnKing/zoneCommander)
 - 📫 Once worked for Cloud Gaming company and knows Win32 API well
 - 📺 You can reach me on [Bilibili](https://space.bilibili.com/67279156)
